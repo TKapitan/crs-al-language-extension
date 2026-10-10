@@ -450,7 +450,7 @@
     },
     "dependencies": {
         "opn": "^6.0.0",
-        "simple-git": "^1.110.0"
+        "simple-git": "^4.0.1"
     },
     "devDependencies": {
         "@types/mocha": "^7.0.2",
